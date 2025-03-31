@@ -1,0 +1,3 @@
+# Advanced_Stock_Pattern_Prediction_using_LSTM_with_the_Attention_Mechanism_in_TensorFlow
+
+Description of the notebook.
