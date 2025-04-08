@@ -1,8 +1,5 @@
-# Portfolio
-Portfolio showcasing my expertise in data analytics, marketing analytics, and data science. Projects include data preprocessing, EDA, visualization, and machine learning, highlighting real-world problem-solving and actionable insights to demonstrate technical skills and creativity.
-
-## Portfolio Vision
-This repository is a curated collection of projects created throughout my journey in **machine learning**, **data analysis**, and **data science**. It reflects my growth, adaptability, and dedication to mastering complex concepts while solving real-world challenges.
+# Portfolio Overview
+A curated collection of projects showcasing expertise in data analytics, marketing analytics, and data science. This portfolio highlights technical skills, creativity, and real-world problem-solving, reflecting a commitment to mastering complex concepts and creating impactful solutions.
 
 ---
 
